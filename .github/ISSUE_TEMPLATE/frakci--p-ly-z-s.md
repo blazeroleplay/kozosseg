@@ -2,7 +2,7 @@
 name: Frakció pályázás
 about: blazerp
 title: ''
-labels: frakció pályázás
+labels: frakció pályázás, Megnézésre vár
 assignees: ''
 
 ---

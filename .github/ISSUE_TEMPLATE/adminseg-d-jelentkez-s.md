@@ -2,7 +2,7 @@
 name: Adminsegéd jelentkezés
 about: blazerp
 title: ''
-labels: adminsegéd jelentkezés
+labels: adminsegéd jelentkezés, Megnézésre vár
 assignees: ''
 
 ---

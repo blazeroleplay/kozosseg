@@ -2,7 +2,7 @@
 name: Hibajelentés
 about: blazerp
 title: ''
-labels: hiba
+labels: hiba, Megnézésre vár
 assignees: ''
 
 ---

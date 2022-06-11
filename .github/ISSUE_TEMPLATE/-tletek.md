@@ -2,7 +2,7 @@
 name: Ötletek
 about: blazerp
 title: ''
-labels: ötlet
+labels: Megnézésre vár, ötlet
 assignees: ''
 
 ---
