@@ -1,5 +1,5 @@
 ---
-name: frakció pályázás
+name: Frakció pályázás
 about: blazerp
 title: ''
 labels: frakció pályázás
