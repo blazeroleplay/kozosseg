@@ -2,7 +2,7 @@
 name: Handling hibajelentés
 about: blazerp
 title: ''
-labels: handling hiba, Megnézésre vár
+labels: ''
 assignees: ''
 
 ---
