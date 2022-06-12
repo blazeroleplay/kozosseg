@@ -2,7 +2,7 @@
 name: Adminsegéd jelentkezés
 about: Alap kategória
 title: ''
-labels: Adminsegéd jelentkezések
+labels: Adminsegéd jelentkezés
 assignees: ''
 
 ---

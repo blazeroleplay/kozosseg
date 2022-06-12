@@ -2,7 +2,7 @@
 name: Ötlet
 about: Alap kategória
 title: ''
-labels: Ötletek
+labels: Ötlet
 assignees: ''
 
 ---
