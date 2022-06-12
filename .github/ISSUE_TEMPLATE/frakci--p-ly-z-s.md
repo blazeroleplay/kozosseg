@@ -1,8 +1,8 @@
 ---
 name: Frakció pályázás
-about: blazerp
+about: Alap kategória
 title: ''
-labels: ''
+labels: Frakció pályázás
 assignees: ''
 
 ---

@@ -1,8 +1,8 @@
 ---
 name: Ötlet
-about: blazerp
+about: Alap kategória
 title: ''
-labels: ''
+labels: Ötletek
 assignees: ''
 
 ---

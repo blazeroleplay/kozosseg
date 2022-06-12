@@ -1,8 +1,8 @@
 ---
 name: Handling hibajelentés
-about: blazerp
+about: Alap kategória
 title: ''
-labels: ''
+labels: Handling hibajelentés
 assignees: ''
 
 ---

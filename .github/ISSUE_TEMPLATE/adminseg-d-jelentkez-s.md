@@ -1,8 +1,8 @@
 ---
 name: Adminsegéd jelentkezés
-about: blazerp
+about: Alap kategória
 title: ''
-labels: ''
+labels: Adminsegéd jelentkezések
 assignees: ''
 
 ---

@@ -1,8 +1,8 @@
 ---
 name: Hibajelentés
-about: blazerp
+about: Alap kategória
 title: ''
-labels: ''
+labels: Hibajelentés
 assignees: ''
 
 ---
