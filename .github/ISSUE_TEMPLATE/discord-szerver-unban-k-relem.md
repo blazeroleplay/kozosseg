@@ -2,7 +2,7 @@
 name: Discord szerver unban kérelem
 about: Alap kategória
 title: ''
-labels: ''
+labels: Discord szerver unban kérelem
 assignees: ''
 
 ---
